@@ -1,0 +1,5 @@
+- Pyaaz
+	- Stuffing
+		- Pyaaz, green chilli, red chilli, dhaniya, adrak, jeera sabut, salt, dhaniya powder
+	- Aata
+		- thoda salt

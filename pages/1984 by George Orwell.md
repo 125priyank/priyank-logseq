@@ -1,0 +1,28 @@
+- Winston Smith is the protagonist of the novel.
+- Part 1
+	- He is living in a flat in London, province Oceania(Newspeak official language). He is around 39yrs old.
+	- There are posters of **Brother is watching you** on streets and inside building
+	- There is a telescreen which do surveillance of all citizen
+		- it cannot be switched off
+	- There are 4 ministries
+		- Truth->news, entertainment, education and fine arts
+		- Peace->war
+		- Love->law and order
+		- Plenty->economic affairs
+	- He has a diary to write
+		- It is kind of illegal (no really illegal as no laws)
+		- Thought police just vaporize people who commit crime
+	- They need to hear a two minute hate speech from a person name Goldstein
+		- Goldstein is enemy to the state
+		- He talks about freedom of speech, press, etc
+		- This is enforced by **Big Brother** to portray him as villain and enemy
+	- 3 slogans of party - `WAR IS PEACE
+	  FREEDOM IS SLAVERY
+	  IGNORANCE IS STRENGTH`
+	-
+	-
+	-
+- Part 2
+- page 29 part 3
+	-
+		-

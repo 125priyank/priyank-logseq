@@ -1,0 +1,6 @@
+- Stop loss
+- Position sizing
+- Diversify portfolio
+- Use leverage responsibly
+- Monitor market news
+- Maintain discipline

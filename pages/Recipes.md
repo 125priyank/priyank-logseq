@@ -1,2 +1,3 @@
 - [[Chutney]]
+- [[Paratha]]
 -

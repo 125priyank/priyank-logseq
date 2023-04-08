@@ -1,0 +1,7 @@
+- Intraday
+	- Moving average
+	- Relative strength index
+	- Stochastic oscillator
+	- Bollinger bands
+	- Volume
+	- MACD

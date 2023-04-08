@@ -1,0 +1,7 @@
+- [[Processor]]
+- Multithreading
+	- single process is divided into multiple threads
+	- Each thread can run on a separate cpu core
+- Multiprocessing
+	- Multiple process are excuted concurrently
+	- Each process has own memory space and executed on a separate core

@@ -1,0 +1,5 @@
+- [[Basic principles for a successful trader]]
+- [[Technical Indicators]]
+- [[Risk Management]]
+- [[Support Resistance]]
+-

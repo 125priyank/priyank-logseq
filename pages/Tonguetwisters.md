@@ -1,0 +1,23 @@
+- R
+  id:: 6420a1f0-f4f9-4b2c-bf54-7be9c38aac1d
+	- "Red lorry, yellow lorry, red lorry, yellow lorry."
+	- Roberta ran rings around the Roman ruins.
+	- Rory's rather rare rabbit is really rather rare.
+	- Red rubber baby buggy bumpers.
+	- Rugged, ragged rocks.
+	- Round and round the rugged rocks the ragged rascal ran.
+	- Rita wrote a letter to her friend in Russia.
+	- Roy Rogers rode a rocky road, rodeo-style.
+	- Rusty razor blades really rust really rapidly.
+	- Rarely, really reliable rear-wheel drive cars are really rare.
+	- Randy the rat rushed round and round the road.
+	- Row the boat to shore, Rory.
+	- Runny red radishes roll really rapidly.
+	- Rattlesnakes are really rather rare, but really raucous when riled.
+	- Rachel's rambunctious rooster ruffled Ruby's ruffled rug.
+	- Rolling red wagons roam around in rural areas.
+	- The rascally rabbit ran around the rosebush.
+	- Rich red roses really resonate with romantic reverence.
+	- Robin's robust rhubarb relish is rather refreshing.
+	- Ruth's really rare ruby ring radiated a red reflection.
+	- The rough and ready ruffian rose rapidly from rags to riches.

@@ -1,0 +1,2 @@
+- R
+	- Roger runs his red racecar round the road recklessly, racing rival racers ruthlessly. Racing requires rapid reflexes, ready responses, and a resolute resolve. Roger relishes the risk and the roar of the crowd as he races towards the finish line. He knows that the race is won by the racer who is the most resolute and relentless in their pursuit of victory. Roger is a racer through and through, and he won't rest until he's the best racer around.

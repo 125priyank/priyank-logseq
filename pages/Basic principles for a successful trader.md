@@ -1,0 +1,12 @@
+- Educate yourself
+	- Trading strategies
+	- Technical analysis
+	- Risk Management
+- Develop a trading plan
+	- Be disciplined, no greed, no biases
+- Practice with a demo account
+- Risk management
+	- Stop loss
+	- Over leveraging
+- Keep a trading journal
+- Learn and adapt
